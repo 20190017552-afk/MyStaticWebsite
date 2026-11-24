@@ -1,0 +1,2 @@
+# MyStaticWebsite
+Static website test.
